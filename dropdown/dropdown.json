@@ -1,0 +1,113 @@
+[
+    {
+      "type": "section",
+      "block_id": "section678",
+      "text": {
+        "type": "mrkdwn",
+        "text": "Select two(2) time slots from the list"
+      },
+      "accessory": {
+        "action_id": "text1234",
+        "type": "multi_static_select",
+        "placeholder": {
+          "type": "plain_text",
+          "text": "Select items"
+        },
+        "options": [
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "12:00"
+            },
+            "value": "value-0"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "12:30"
+            },
+            "value": "value-1"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "1:00"
+            },
+            "value": "value-2"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "1:30"
+            },
+            "value": "value-3"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "2:00"
+            },
+            "value": "value-4"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "2:30"
+            },
+            "value": "value-5"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "3:00"
+            },
+            "value": "value-6"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "3:30"
+            },
+            "value": "value-7"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "4:00"
+            },
+            "value": "value-8"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "4:30"
+            },
+            "value": "value-9"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "5:00"
+            },
+            "value": "value-10"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "5:30"
+            },
+            "value": "value-11"
+          },
+          {
+            "text": {
+              "type": "plain_text",
+              "text": "6:00"
+            },
+            "value": "value-12"
+          }
+        ]
+      }
+    }
+  ]
+  
+  
